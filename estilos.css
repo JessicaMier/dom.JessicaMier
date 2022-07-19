@@ -1,0 +1,24 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(rgb(122, 226, 245), rgb(245, 243, 135),rgb(122, 226, 245) );
+}
+.titulo{
+    font-size: 50px;
+    text-align: center;
+    margin: 20px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px rgb(250, 246, 6),
+                 5px 5px 5px black;
+    color: black;
+}
+
+.lugares{
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    justify-content: center;
+}
