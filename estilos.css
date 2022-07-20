@@ -22,3 +22,11 @@ body{
     padding: 5px;
     justify-content: center;
 }
+.registrate{
+    margin: 30px;
+    text-transform: capitalize;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(250, 246, 6),
+                 5px 5px 5px black;
+}
